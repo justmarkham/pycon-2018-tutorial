@@ -51,7 +51,7 @@ If you don't get any error messages, and a plot appears on your screen, then it'
 * `police.csv` is the Rhode Island dataset from the [Stanford Open Policing Project](https://openpolicing.stanford.edu/), made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/summary/).
 * `ted.csv` is the TED Talks dataset from [Kaggle Datasets](https://www.kaggle.com/rounakbanik/ted-talks), made available under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Where is the code for tutorial?
+## Where is the code for the tutorial?
 
 The tutorial will be live-coded, and that code will posted in this repository afterwards.
 
