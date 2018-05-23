@@ -1,16 +1,23 @@
 # Using pandas for Better (and Worse) Data Science
 
-This tutorial was presented by [Kevin Markham](http://www.dataschool.io/about/) at PyCon on May 10, 2018.
+This tutorial was presented by [Kevin Markham](http://www.dataschool.io/about/) at [PyCon](https://us.pycon.org/2018/schedule/presentation/68/) on May 10, 2018.
 
 ## Jupyter notebook
 
 The tutorial code is available as a [Jupyter notebook](tutorial.ipynb). The notebook includes 4 additional exercises that were not covered during the tutorial.
 
-## Video
+## Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6))
 
-The [unedited 3-hour tutorial video](https://www.youtube.com/watch?v=0hsKLYfyQZc) has already been posted on the PyCon 2018 YouTube channel. However, about **half of the video is silent**, because that is when students were working on each exercise.
-
-However, I will be **editing the video to remove the silent parts** and releasing it on the [Data School YouTube channel](https://youtube.com/dataschool). To be notified when the edited video is available, please [subscribe to the Data School email newsletter](http://www.dataschool.io/subscribe/).
+1. [Introducing the dataset](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=1) (19:40)
+2. [Removing columns](https://www.youtube.com/watch?v=TW5RqdDBasg&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=2) (6:27)
+3. [Comparing groups](https://www.youtube.com/watch?v=d0oBRIONOEw&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=3) (8:42)
+4. [Examining relationships](https://www.youtube.com/watch?v=WzpGq1X5U1M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=4) (8:44)
+5. [Handling missing values](https://www.youtube.com/watch?v=3D6smaE9c-g&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=5) (5:02)
+6. [Using string methods](https://www.youtube.com/watch?v=4tTO_xH4aQE&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=6) (5:55)
+7. [Combining dates and times](https://www.youtube.com/watch?v=W0zGzXQmE7c&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=7) (9:11)
+8. [Plotting a time series](https://www.youtube.com/watch?v=jV24N7SPXEU&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=8) (8:48)
+9. [Creating useful plots](https://www.youtube.com/watch?v=GsQ6x3pt2w4&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=9) (8:47)
+10. [Fixing bad data](https://www.youtube.com/watch?v=8U8ob9bXakY&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=10) (16:31)
 
 ## What is the tutorial about?
 
