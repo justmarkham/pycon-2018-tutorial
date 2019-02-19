@@ -6,6 +6,8 @@ This tutorial was presented by [Kevin Markham](http://www.dataschool.io/about/) 
 
 The tutorial code is available as a [Jupyter notebook](tutorial.ipynb). The notebook includes 4 additional exercises that were not covered during the tutorial.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upendrak/pycon-2018-tutorial/master)
+
 ## Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6))
 
 1. [Introducing the dataset](https://www.youtube.com/watch?v=hl-TGI4550M&list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6&index=1) (19:40)
