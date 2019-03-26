@@ -1,0 +1,7 @@
+name: pycon-2018-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
