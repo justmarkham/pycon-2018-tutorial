@@ -4,7 +4,7 @@ This tutorial was presented by [Kevin Markham](http://www.dataschool.io/about/) 
 
 ## Jupyter notebook
 
-The tutorial code is available as a [Jupyter notebook](tutorial.ipynb). The notebook includes 4 additional exercises that were not covered during the tutorial.
+The tutorial code is available as a static notebook [Jupyter notebook](tutorial.ipynb) or as an interactive notebook by clicking this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upendrak/pycon-2018-tutorial/master). The notebook includes 4 additional exercises that were not covered during the tutorial. 
 
 ## Videos ([playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6))
 
